@@ -1,4 +1,4 @@
-IEWebGL
+IEWebGL 20210811使用安装步骤编译成功，编译好的放置在Bin目录下
 =======
 
 #### WebGL plugin for Internet Explorer 10 and below. ####
